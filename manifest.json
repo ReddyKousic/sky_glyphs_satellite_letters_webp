@@ -5,22 +5,15 @@
     "n-yapacani-bolivia.webp"
   ],
   "i": [
-    "i-Canandaigua-Lake-NewYork.webp",
     "i-borgarbyggd-iceland.webp",
+    "i-canandaiguaLake-newYork.webp",
     "i-djebelOuarkziz-morocco.webp",
     "i-etoshaNationalPark-namibia.webp",
     "i-holuhraunIceField-iceland.webp"
   ],
-  "j": [
-    "j-greatBarrierReef-5.webp",
-    "j-karakayaDam-turkey.webp",
-    "j-lakeSuperior-northAmerica.webp"
-  ],
-  "e": [
-    "e-bellona-plateau.webp",
-    "e-breidamerkurjokull-iceland.webp",
-    "e-fjords-tibet.webp",
-    "e-sea-of-okhotsk.webp"
+  "t": [
+    "t-Liwa-unitedArabEmirates.webp",
+    "t-lenaRiverDelta-northeasternSiberiaRussiaAtLaptevSea.webp"
   ],
   "s": [
     "s-mackenzieRiver-canada.webp",
@@ -59,16 +52,31 @@
     "l-regina-saskatchewan-canada.webp",
     "l-xingjiang-china.webp"
   ],
+  "e": [
+    "e-bellonaPlateau-coralSea.webp",
+    "e-breidamerkurjokull-iceland.webp",
+    "e-fjords-tibet.webp",
+    "e-seaOfOkhotsk-westOfTheKamchatkaPeninsula.webp"
+  ],
   "c": [
     "c-blackRockDesert-nevada.webp",
     "c-deceptionIsland-antarctica-1.webp",
     "c-falseRiver-louisiana.webp"
   ],
+  "j": [
+    "j-greatBarrierReef-australia-5.webp",
+    "j-karakayaDam-turkey.webp",
+    "j-lakeSuperior-northAmerica.webp"
+  ],
   "r": [
     "r-canyonlandsNationalPark-utah.webp",
-    "r-florida-keys.webp",
+    "r-floridaKeys-USA.webp",
     "r-lagoMenendez-argentina.webp",
     "r-provinceOfSondrio-italy.webp"
+  ],
+  "h": [
+    "h-khorinskyDistrict-russia.webp",
+    "h-southwestern-kyrgystan.webp"
   ],
   "g": [
     "g-fonteBoa-Amazonas.webp"
@@ -77,18 +85,14 @@
     "k-golmund-china.webp",
     "k-sirmilikNationalPark-canada.webp"
   ],
-  "m": [
-    "m-potomacRiver.webp",
-    "m-shenandoahRiver-virginia.webp",
-    "m-tianShanMountains-kyrgyzstan.webp"
-  ],
-  "t": [
-    "t-Liwa-United-Arab-Emirates.webp",
-    "t-lenaRiverDelta.webp"
-  ],
   "b": [
     "b-hollaBend-arkansas.webp",
     "b-humaita-brazil.webp"
+  ],
+  "m": [
+    "m-potomacRiver-USA.webp",
+    "m-shenandoahRiver-virginia.webp",
+    "m-tianShanMountains-kyrgyzstan.webp"
   ],
   "z": [
     "z-mohammedBoudiaf-algeria.webp",
@@ -100,7 +104,7 @@
   ],
   "o": [
     "o-craterLake-oregon.webp",
-    "o-manicouagan-reservoir.webp"
+    "o-manicouaganReservoir-canada.webp"
   ],
   "q": [
     "q-lonarCrater-india.webp",
@@ -113,10 +117,6 @@
   "w": [
     "w-laPrimavera-columbia-2.webp",
     "w-ponoyRiver-russia-2.webp"
-  ],
-  "h": [
-    "h-khorinsky-district-russia.webp",
-    "h-southwestern-kyrgystan.webp"
   ],
   "f": [
     "f-krugerNationalPark-southAfrica.webp",
